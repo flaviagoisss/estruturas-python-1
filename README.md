@@ -11,4 +11,10 @@
 * Ex Estrutura de decisão_
 * Ex Estrutura de repetição_
 
-# :rose::rose::rose::rose::rose::rose::rose:
+# :sparkles: Na aula 12 de Funções e Exercícios !
+
+  ## Foi trabalhado no python :snake:
+
+
+* Ex_Funções
+* Funções
